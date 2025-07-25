@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.21.5",
+    "status": ["recommended"],
+    "modurl": "https://example.com/mods/1.21.5"
+  },
+  {
+    "version": "1.21.4",
+    "status": ["beta", "modsdoesntsupport"],
+    "modurl": "https://example.com/mods/1.21.4"
+  }
+]
