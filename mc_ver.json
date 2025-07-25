@@ -1,12 +1,12 @@
 [
   {
-    "version": "1.21.5",
+    "version": "1.20.1",
     "status": ["recommended"],
-    "modurl": "https://example.com/mods/1.21.5"
+    "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.20.1.zip"
   },
   {
     "version": "1.21.4",
-    "status": ["beta", "modsdoesntsupport"],
-    "modurl": "https://example.com/mods/1.21.4"
+    "status": ["beta"],
+    "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.4.zip"
   }
 ]
