@@ -2,6 +2,8 @@
   {
     "version": "1.21.4",
     "status": ["recommended"],
-    "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.4.zip"
+    "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.4.zip",
+    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
+    "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
   }
 ]
