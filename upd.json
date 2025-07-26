@@ -1,12 +1,12 @@
 [
+    {
+    "title": "MC/Launcher Update",
+    "version": "2.0.2",
+    "content": "Added Client Mod/ResourcePack, Added Mods Management in Dashboard, Added Better Alerts, Added Update Check"
+  },
    {
     "title": "MC/Launcher Update",
     "version": "2.0.2-PreRelease",
     "content": "Added MendoraClient Mods, Improved Selection of Version, Bug Fixed Where the cmd gets opened"
-  },
- {
-    "title": "Launcher Update",
-    "version": "2.0.1",
-    "content": "Login UI Improved, Added Updates Container in Dashboard and Added Cracked Support"
   }
 ]
