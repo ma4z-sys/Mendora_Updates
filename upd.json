@@ -1,12 +1,12 @@
 [
-    {
-    "title": "MC/Launcher Update",
-    "version": "2.0.2",
-    "content": "Added Client Mod/ResourcePack, Added Mods Management in Dashboard, Added Better Alerts, Added Update Check"
+{
+    "title": "Launcher Update",
+    "version": "2.0.4",
+    "content": "Added Install mods from modrinth, Added Fade in - out animation at dashboard images"
   },
-   {
-    "title": "MC/Launcher Update",
-    "version": "2.0.2-PreRelease",
-    "content": "Added MendoraClient Mods, Improved Selection of Version, Bug Fixed Where the cmd gets opened"
+    {
+    "title": "Launcher Update",
+    "version": "2.0.3-beta",
+    "content": "Added Mods Tab, Install Resourcepack"
   }
 ]
