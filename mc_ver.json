@@ -5,5 +5,12 @@
     "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.4.zip",
     "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
     "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
+  },
+  {
+    "version": "1.21.5",
+    "status": ["beta", "modsdoesntsupport"],
+    "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.5.zip",
+    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
+    "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
   }
 ]
