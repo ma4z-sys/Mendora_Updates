@@ -1,5 +1,10 @@
 [
    {
+    "title": "MC/Launcher Update",
+    "version": "2.0.5",
+    "content": "Added New tab called Servers, added Partners Section at home page, added creators popup, Added New font"
+  },
+   {
     "title": "Launcher Update",
     "version": "2.0.5-PreRelease1",
     "content": "Obfuscated launcher files, bug fix where game launches with 0 mods, new sidebar UI , added check account if u already logged in before"
