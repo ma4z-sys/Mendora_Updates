@@ -7,26 +7,37 @@
   {
     "partnerName": "ma4z",
     "partnerType": "staff",
-    "partnerInfo": "OWNER of Mendora"
+    "partnerInfo": "OWNER of Mendora",
+    "pfp": "https://mendora-site.vercel.app/_next/image?url=%2Fteam%2FMA4Z.webp&w=128&q=75"
   },
   {
     "partnerName": "Crater",
     "partnerType": "staff",
-    "partnerInfo": "2nd OWNER of Mendora"
+    "partnerInfo": "2nd OWNER of Mendora",
+    "pfp": "https://mendora-site.vercel.app/_next/image?url=%2Fteam%2Fcrater.webp&w=128&q=75"
   },
     {
     "partnerName": "gwidoniusz99",
     "partnerType": "staff",
-    "partnerInfo": "Admin of Mendora"
+    "partnerInfo": "Admin of Mendora",
+    "pfp": "https://mendora-site.vercel.app/_next/image?url=%2Fteam%2Fidk.webp&w=128&q=75"
+  },
+    {
+    "partnerName": "ThaYT",
+    "partnerType": "staff",
+    "partnerInfo": "Admin of Mendora",
+    "pfp": "https://mendora-site.vercel.app/_next/image?url=%2Fteam%2FMyBestie.webp&w=128&q=75"
   },
     {
     "partnerName": "Nehxurai",
     "partnerType": "staff",
     "partnerInfo": "Moderator of Mendora"
+    "pfp": "https://mendora-site.vercel.app/_next/image?url=%2Fteam%2Fxerin.webp&w=128&q=75"
   },
     {
     "partnerName": "Vspcoderz",
     "partnerType": "staff",
-    "partnerInfo": "Developer of Mendora"
+    "partnerInfo": "Developer of Mendora",
+    "pfp": "https://mendora-site.vercel.app/_next/image?url=%2Fteam%2Fvspcoderz.jpg&w=128&q=75"
   }
 ]
