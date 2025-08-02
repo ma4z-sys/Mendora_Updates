@@ -1,6 +1,11 @@
 [
   {
     "title": "Launcher Update",
+    "version": "2.0.8",
+    "content": "Bug fix where cracked login is logging in with the name Player instead of the input username, Few UI Changes, Added new option in settings (width,height)"
+  },
+  {
+    "title": "Launcher Update",
     "version": "2.0.7",
     "content": "New Ui Changes, Added Cracked Verification for Staff, New Popup desgins"
   },
