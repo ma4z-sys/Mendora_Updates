@@ -1,5 +1,10 @@
 [
   {
+    "title": "Launcher Update",
+    "version": "3.0.0-SNAPSHOT1",
+    "content": "Added Discord RPC , Fixed Cracked not launching, Added Skin Support For Cracked"
+  },
+  {
     "title": "MC/Launcher Update",
     "version": "3.0.0-PreRelease1",
     "content": "New Info Account Section in Settings, Updated Buttons on Servers Page, Added New Font Doto to all pages sections, Added New Mendora Core Mod, Updated Partners Sections, Fixed Bug where launching mc says you must login with ur microsoft account"
