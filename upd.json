@@ -1,6 +1,11 @@
 [
   {
     "title": "Launcher Update",
+    "version": "3.0.0-SNAPSHOT2",
+    "content": "New Management Server API at https://mendora.qzz.io"
+  },
+  {
+    "title": "Launcher Update",
     "version": "3.0.0-SNAPSHOT1",
     "content": "Added Discord RPC , Fixed Cracked not launching, Added Skin Support For Cracked"
   },
