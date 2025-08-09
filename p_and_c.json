@@ -48,11 +48,5 @@
     "partnerType": "staff",
     "partnerInfo": "Moderator of Mendora",
     "pfp": "https://raw.githubusercontent.com/mendora-client/Mendora-Website/refs/heads/main/public/team/sifan.png"
-  },
-    {
-    "partnerName": "Vspcoderz",
-    "partnerType": "staff",
-    "partnerInfo": "Developer of Mendora",
-    "pfp": "https://mendora-site.vercel.app/_next/image?url=%2Fteam%2Fvspcoderz.jpg&w=128&q=75"
   }
 ]
