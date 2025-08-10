@@ -5,7 +5,7 @@
       "beta"
     ],
     "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.8.zip",
-    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
+    "mendoracore": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore-2.0.4.jar",
     "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
   },
   {
@@ -14,7 +14,7 @@
       "beta"
     ],
     "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.7.zip",
-    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
+    "mendoracore": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore-2.0.4.jar",
     "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
   },
   {
@@ -23,7 +23,7 @@
       "recommended"
     ],
     "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.6.zip",
-    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
+    "mendoracore": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore-2.0.4.jar",
     "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
   },
   {
@@ -32,7 +32,7 @@
       "recommended"
     ],
     "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.4.zip",
-    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
+    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore-2.0.4.jar",
     "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
   },
   {
@@ -41,7 +41,7 @@
       "recommended"
     ],
     "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.5.zip",
-    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
+    "mendoracore": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore-2.0.4.jar",
     "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
   },
   {
@@ -50,7 +50,7 @@
       "modsdoesntsupport"
     ],
     "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.20.4.zip",
-    "resourcepack": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore.zip",
+    "mendoracore": null,
     "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
   }
 ]
