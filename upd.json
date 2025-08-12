@@ -1,5 +1,10 @@
 [
   {
+    "title": "Launcher Update",
+    "version": "3.0.1",
+    "content": "Added More info in account section in settings, Fixed Sidebar, Moved Username and PlayerHead at the nav bar"
+  },
+  {
     "title": "MC/Launcher Update",
     "version": "3.0.0",
     "content": "New MendoraCore initializer,New Management Server API at https://manage.mendora.qzz.io,Added Discord RPC , Fixed Cracked not launching, Added Skin Support For Cracked, New Info Account Section in Settings, Updated Buttons on Servers Page, Added New Font Doto to all pages sections, Added New Mendora Core Mod, Updated Partners Sections, Fixed Bug where launching mc says you must login with ur microsoft account,"
