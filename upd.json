@@ -1,6 +1,11 @@
 [
   {
     "title": "Launcher Update",
+    "version": "3.0.2",
+    "content": "Updated Mods Sections with selection of mods, New Section in settings tab, added new info button in mods section at mods tab"
+  },
+  {
+    "title": "Launcher Update",
     "version": "3.0.1",
     "content": "Added More info in account section in settings, Fixed Sidebar, Moved Username and PlayerHead at the nav bar"
   },
