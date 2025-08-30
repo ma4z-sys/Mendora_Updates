@@ -1,6 +1,11 @@
 [
   {
     "title": "Launcher Update",
+    "version": "3.0.3",
+    "content": "Fixed Logging , Added a few Easter Eggs (find them), improved the loading ui"
+  },
+  {
+    "title": "Launcher Update",
     "version": "3.0.2",
     "content": "Updated Mods Sections with selection of mods, New Section in settings tab, added new info button in mods section at mods tab"
   },
