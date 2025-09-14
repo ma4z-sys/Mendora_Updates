@@ -1,6 +1,11 @@
 [
   {
     "title": "Launcher Update",
+    "version": "3.0.4",
+    "content": "New Font Style, Removed a few easter eggs, Fixed cracked people have to login again and again for some reason."
+  },
+  {
+    "title": "Launcher Update",
     "version": "3.0.3",
     "content": "Fixed Logging , Added a few Easter Eggs (find them), improved the loading ui"
   },
