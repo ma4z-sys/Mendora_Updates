@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.21.9",
+    "status": [
+      "recommended"
+    ],
+    "modurl": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/mods_1.21.9.zip",
+    "mendoracore": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/MendoraCore-2.0.6-1.21.9.jar",
+    "optionstxt": "https://github.com/ma4z-sys/src_mendora/releases/download/assets/options.txt"
+  },
+  {
     "version": "1.21.8",
     "status": [
       "recommended"
